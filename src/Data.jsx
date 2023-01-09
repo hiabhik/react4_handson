@@ -1,13 +1,13 @@
 const Student=[
     {
-        "Name": "John",
+        "Name": "Rakesh",
         "Age": "24",
         "Course": "MERN",
         "Batch": "October",
         "Change": "Edit"
     },
     {
-        "Name": "Doe",
+        "Name": "Sonam",
         "Age": "25",
         "Course": "MERN",
         "Batch": "November",
@@ -21,7 +21,7 @@ const Student=[
         "Change": "Edit"
     },
     {
-        "Name": "Barar",
+        "Name": "Sam",
         "Age": "22",
         "Course": "MERN",
         "Batch": "September",
